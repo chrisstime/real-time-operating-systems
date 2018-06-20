@@ -1,5 +1,4 @@
-//Christine Vinaviles 
-//48450 Real-Time Operating Systems Assignment 2
+//48450 Real-Time Operating Systems Assignment
 //Date: 1st May 2018
 
 // to compile gcc 11986282_Prg2.c -o prg_2.c -pthread -lrt
