@@ -1,4 +1,4 @@
-//48450 Real-Time Operating Systems Assignment
+//48450 Real-Time Operating Systems
 //Date: 1st May 2018
 
 // to compile gcc 11986282_Prg1.c -o prg_1.c -pthread -lrt
